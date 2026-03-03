@@ -6,8 +6,8 @@ libraryDependencies ++= {
   )
 }
 
-organization := "net.martinyrjola"
-scalaVersion := "2.11.7"
+organization := "net.raymondoyondi"
+scalaVersion := "3.8.1"
 scalaSource in Compile := baseDirectory.value / "src"
 scalaSource in Test := baseDirectory.value / "test"
 
